@@ -1,0 +1,34 @@
+body{
+    background-color: #ccc;
+}
+
+h1{
+    text-align: center;
+    color: rgb(190, 53, 53);
+    margin-top: 70px;
+}
+
+.logo img{
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    margin: 20px;
+    bottom: 120px;
+}
+
+.paronamico img{
+    width: 100%;
+    position: relative;
+    bottom: 120px;
+}
+
+.carousel-inner{
+    width: 500px;
+    position: relative;
+    left:38%;
+}
+
+.carousel-item img{
+    background-position: center;
+    
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: #ccc;
+}
+
+h1{
+    background-color: #ffffff;
+    text-align: center;
+    color: rgb(190, 53, 53);
+    margin-top: 70px;
+}
+
+.logo img{
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    margin: 20px;
+    bottom: 120px;
+    margin-bottom: -100px;
+}

@@ -18,26 +18,26 @@ h1{
     margin-bottom: -100px;
 }
 
-#carouselExampleFade{
-    width: 100%;
-    position: relative;
-
+.baner{
+    display: flex;
+    justify-content: center;
 }
 
-.paronamico img{
-    width: 100%;
-    position: relative;
-    bottom: 120px;
+.btn{
+    margin: 5px;
 }
 
-.carousel-inner{
-    width: 500px;
-    position: relative;
-    left:38%;
+.contain{
+    margin: 20px 20px 20px 20px;
+    background-color: #ffffff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
 }
 
-.carousel-item img{
-    width: 300px 300px 300px 300px;
-    background-position: center;
+.card{
+    background-color: #ccc;
+    margin:auto;
     
 }

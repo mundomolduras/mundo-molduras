@@ -23,21 +23,35 @@ h1{
     justify-content: center;
 }
 
+h2{
+    text-align: center;
+    color: rgb(190, 53, 53);
+    margin-top: 70px;
+    background-position: center;
+}
+
+.video{
+    width: 100%;
+    text-align: center;
+    background-position: center;
+}
+
 .btn{
     margin: 5px;
 }
 
 .contain{
     margin: 20px 20px 20px 20px;
-    background-color: #ffffff;
+    background-color: rgb(71, 71, 71);
     padding-top: 5px;
     padding-bottom: 5px;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .card{
     background-color: #ccc;
-    margin:auto;
+    margin:5px;
     
 }

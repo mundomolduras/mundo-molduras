@@ -18,6 +18,57 @@ h1{
     margin-bottom: -100px;
 }
 
+.bi {
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    color: lightgreen;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    margin: 20px;
+    display: flex;
+    bottom: 430px;
+}
+
+.face{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    margin: 20px;
+    display: flex;
+    bottom: 430px;
+}
+
+.inst{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    color: rgb(249, 105, 53);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    margin: 20px;
+    display: flex;
+    bottom: 430px;
+}
+
+.gmail{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+    color: red;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    margin: 20px;
+    display: flex;
+    bottom: 430px;
+}
+
 .baner{
     display: flex;
     justify-content: center;

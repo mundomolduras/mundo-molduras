@@ -25,10 +25,10 @@ h1{
     color: lightgreen;
     width: 50px;
     height: 50px;
-    position: relative;
+    position: absolute;
     margin: 20px;
     display: flex;
-    bottom: 430px;
+    bottom: 230px;
 }
 
 .face{
@@ -37,10 +37,10 @@ h1{
     border-radius: 10px;
     width: 50px;
     height: 50px;
-    position: relative;
+    position: absolute;
     margin: 20px;
     display: flex;
-    bottom: 430px;
+    bottom: 160px;
 }
 
 .inst{
@@ -50,10 +50,10 @@ h1{
     color: rgb(249, 105, 53);
     width: 50px;
     height: 50px;
-    position: relative;
+    position: absolute;
     margin: 20px;
     display: flex;
-    bottom: 430px;
+    bottom: 90px;
 }
 
 .gmail{
@@ -63,10 +63,10 @@ h1{
     color: red;
     width: 50px;
     height: 50px;
-    position: relative;
+    position: absolute;
     margin: 20px;
     display: flex;
-    bottom: 430px;
+    bottom: 20px;
 }
 
 .baner{
@@ -85,6 +85,7 @@ h2{
     width: 100%;
     text-align: center;
     background-position: center;
+    margin-bottom: 50px;
 }
 
 .btn{
